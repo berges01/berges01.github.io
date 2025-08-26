@@ -9,5 +9,5 @@ Hi, I’m Erik Tyler Berges! This is my personal tech blog where I share insight
 
 ## Latest Posts
 
-- [Understanding GitHub Pages](_posts/post1.md)
-- [Getting Started with Bootstrap](_posts/post2.md)
+- [Understanding GitHub Pages](post1.md)
+- [Getting Started with Bootstrap](post2.md)
